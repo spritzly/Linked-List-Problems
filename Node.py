@@ -1,6 +1,6 @@
 '''
 This is the basis for other files used in data structure/OOP practice files,
-sorta like a boilerplate so I don't have to write this shit over and over again.
+sorta like a template so I don't have to write this shit over and over again.
 If neeeded, I will import the Node class from this file onto the file I will be
 currently working on :)
 '''
